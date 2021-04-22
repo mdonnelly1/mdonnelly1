@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- :airplane: I’m an aerospace engineer and data scientist involved in the development of propulsion systems in Bristol, UK.
+- :airplane: I’m an aerospace engineer and data scientist involved in developing propulsion systems in Bristol, UK.
 - :electron: My work  involves numerical analysis, uncertainty quantification and optimisation.
 - 🌱 I’m currently learning Python for machine learning and automation.
 - 💞️ I’m looking to collaborate on open-source projects relating to any or all the above!
